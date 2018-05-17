@@ -1,62 +1,30 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto Open Door
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
+Este documento apresenta uma solução de hardware e software para o projeto *Open Door*, 
+que soluciona o problema de pessoas trancadas para o lado de fora de suas casas, quartos e ambientes em geral, assim, esquecer a chave não será mais um problema. 
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Trancar e destrancar uma porta a distancia
+* Ultilizar a internet para conectar a pessoa com a segurança de sua casa
+* Informar o status das portas por aplicação web/mobile
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
-
-## Definições, abreviações e outros termos do domínio do problema
-
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
-
-## Integração com outros sistemas
-
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
- 
-## Interessados
-
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
-
-## Usuários
-
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Descrição do problema: Pessoas esquecem suas chaves ou ficam trancadas dentro ou fora dos ambientes
+* Quem é afetado pelo problema: Normalmente adolecentes, parentes que estão como visitas, etc
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Trancar porta
+* Destrancar porta
+* Informar situação de porta
+* Cadastrar usuario 
+* Liberar usuario
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* O aparelho precisa estar conectado em alguma rede WiFi para receber os comandos
 
 ## Protótipos
 
