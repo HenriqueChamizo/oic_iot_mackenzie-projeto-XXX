@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 5K
-## Projeto: Tranca Online
+## Projeto: Open Door
 ## Integrantes do grupo:
 
 * Henrique Conrado Chamizo 31600603 
