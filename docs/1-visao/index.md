@@ -1,7 +1,9 @@
 # Documento de Visão do Projeto Open Door
 
 Este documento apresenta uma solução de hardware e software para o projeto *Open Door*, 
-que soluciona o problema de pessoas trancadas para o lado de fora de suas casas, quartos e ambientes em geral, assim, esquecer a chave não será mais um problema. 
+nesse projeto iremos fazer uma tranca automatizada para fechaduras de portas normais, 
+que receberá os comandos de trancar e destrancar a porta, via comandos recebidos por 
+requisições REST e/ou bluetooth. As requisições REST serão recebidas via um módulo Wi-Fi.
 
 ## Objetivos
 
