@@ -1,14 +1,11 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5K
+## Projeto: Tranca Online
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Henrique Conrado Chamizo 31600603 
+* Ronifer de Souza Silva   31685102
 _______________________________________
 Obs:
 
