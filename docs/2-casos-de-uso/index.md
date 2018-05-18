@@ -8,8 +8,6 @@
 
 ## 2. Especificação dos casos de uso
 
-**Funcionalidades do Usuário**
-
 ### 2.1. Caso de uso **Tranca Porta**
 
 | Campo          | Informação        |
@@ -30,7 +28,7 @@
 | 1) O sistema informa que não conseguiu de travar para a porta. |
 | 2) O usuario apera botão no hardware que tranca a porta. |
 
-### 2.1. Caso de uso **Destranca Porta**
+### 2.2. Caso de uso **Destranca Porta**
 
 | Campo          | Informação        |
 |---|---|
@@ -49,7 +47,5 @@
 |---|
 | 1) O sistema informa que não conseguiu de travar para a porta. |
 | 2) O usuario apera botão no hardware que destrancar a porta. |
-
-**Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
 
 
