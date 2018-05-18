@@ -2,13 +2,13 @@
 
 ## 1. Diagrama de casos de uso
 
-**Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
+**Funcionalidades do Usuário**
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![Diagrama dos casos de uso](b14ca312.png)
 
 ## 2. Especificação dos casos de uso
 
-**Instruções do professor**: Para cada caso de uso, criar as tabelas com a especificação do caso de uso. Siga o exemplo dado abaixo:
+**Funcionalidades do Usuário**
 
 ### 2.1. Caso de uso **REGISTRAR CHAMADO**
 
