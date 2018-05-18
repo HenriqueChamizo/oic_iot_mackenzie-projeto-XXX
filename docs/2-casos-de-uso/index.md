@@ -4,7 +4,7 @@
 
 **Funcionalidades do Usuário**
 
-![Diagrama dos casos de uso](7b255a38.svg)
+![Diagrama dos casos de uso](4c322297.svg)
 
 ## 2. Especificação dos casos de uso
 
